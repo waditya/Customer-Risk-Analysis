@@ -2,9 +2,9 @@
 
 Insurance Risk Analytics System (IRAS) v2.0
 
-**************************************************************************
+****************************************************************************
 SUMMARY
-**************************************************************************
+****************************************************************************
 Currently, Insurance industry is losing significant time in customer acquisition.The primary reason for this is the cumulative time required to get the customer lead, customer data, analyze the customer profile and sell appropriate insurance product.This lengthy process of validating customer profile by calculating customer credit score has resulted in companies losing their customers and people in general not subscribing to personal insurance products. The project aims at predicting the risk associated with insuring a customer. The application will consider number of factors -like age, height, BMI, employment information, Insurance history, and Medical history - and compute a numerical score to indicate the risk associated with selling an insurance product to the customer. The risk score will enable an employee to tailor suitable product wherever applicable. The score will also be useful in flagging certain customers as highrisk. Suitable databases may include SQL and/or No SQL solutions. UI layer to facilitate interactionin form of programming in Web or certain of the shelf reporting tools might be added as per the scope and time lines.
 
 **************************************************************************
